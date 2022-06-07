@@ -1,0 +1,14 @@
+conda activate myDjangoEnv
+conda env list
+conda create --name myDjangoEnv
+
+-from within stocks folder run this to run application
+python manage.py runserver
+
+
+iexcloud public key
+pk_6768926b557d4f909e5ef4d36cfcd87f
+
+django admin:
+username: danny123
+password: danny123
